@@ -24,4 +24,4 @@ Layout
 # Blackjack App Activities
 |Main Activity|Detail Activity|Lonk Click|
 |:-:|:-:|:-:|
-|<img src="https://github.com/grimloc-aduque/Android-Hubble-Images/blob/master/git_images/main_activity.png" style="width:250px;"/>|<img src="https://github.com/grimloc-aduque/Android-Hubble-Images/blob/master/git_images/on_longclick.png" style="width:250px;"/>|<img src="https://github.com/grimloc-aduque/Android-Hubble-Images/blob/master/git_images/detalle_activity.png" style="width:250px;"/>
+|<img src="https://github.com/grimloc-aduque/Android-Hubble-Images/blob/master/git_images/main_activity.png" style="width:250px;"/>|<img src="https://github.com/grimloc-aduque/Android-Hubble-Images/blob/master/git_images/detalle_activity.png" style="width:250px;"/>|<img src="https://github.com/grimloc-aduque/Android-Hubble-Images/blob/master/git_images/on_longclick.png" style="width:250px;"/>
