@@ -4,7 +4,7 @@ Android APP that displays images of galaxies retrieved from the hubble telescope
 # Technologies
 Android/Java
 * Intent for screen launching
-* AsyncTask for background task launching
+* AsyncTask for background tasks launching
     * Download of small icons
     * Download of big images
 * SharedPreferences and Gson for data persistance
